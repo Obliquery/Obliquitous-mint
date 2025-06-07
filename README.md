@@ -70,3 +70,25 @@ onliquitous-mint/
 git clone https://github.com/obliquery/obliquitous-mint.git
 cd obliquitous-mint
 open index.html  # Or use Live Server in VS Code
+
+---
+
+
+💻 Developer Info
+	•	Uses ethers.js v5 via CDN
+	•	Minimal ABI included for both NFT + ERC-20 contracts
+	•	Easy to extend with trait display, metadata fetches, etc.
+
+⸻
+
+🪙 Future Plans
+	•	Trait visualizer from IPFS
+	•	Mint analytics dashboard
+	•	Meme-based rarity filter
+	•	Swap integration for $OBLIQ liquidity
+
+⸻
+
+📜 License
+
+MIT © Obliquitous Labs — Mint the absurd. Own the chaos. Be Obliquitous.
